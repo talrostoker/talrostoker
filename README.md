@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @talrostoker
-- 👀 I’m interested in games dev
+- 👀 I’m interested in games dev and generative AI
 - 📫 How to reach me - tal.rosto@gmail.com
 
 <!---
